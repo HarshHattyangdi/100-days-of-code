@@ -16,7 +16,7 @@
 
 ## Day 1: December 26, 2021
 
-**Today's Progress**: Solved a leetcode problem involving stacks in javascript. Read through the basics of SASS. Refactored the weather-app to make a request once initially, instead of making 2.
+**Today's Progress**: Solved a leetcode problem involving linkedlist in javascript. Read through the basics of SASS. Refactored the weather-app to make a request once initially, instead of making 2.
 
 **Thoughts:** Struggled with the logic of traversing a linkedList had to use leetcode discussion forum. Hope to do away with the discussion forum and come up with original solution. Read through the basics of SASS and learnt that it could do a lot of cool stuff like conditionally style a page, use loops, nest css. Amazing reading!. Came back to the weatherap project modified it to get some simple constant city data and pretty print the JSON which at first seemed like a task, but turns out that can be done with a simple 'pre' tag followed by setting an identation/space in the JSON>stringify() function.
 
