@@ -6,4 +6,4 @@ The log of my #100DaysOfCode challenge. Started on [December 25, Saturday, 2021]
 
 ### R1D1
 
-Started with the journey, solved the valid paranthesis probelm on leetcode (problem no.4). Also learnt a bit about forking and working with Git. Revised bootstrap and jQuery.
+Started with the journey, solved the valid paranthesis probelm on leetcode (problem no.20). Also learnt a bit about forking and working with Git. Revised bootstrap and jQuery.
