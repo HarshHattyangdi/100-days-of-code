@@ -11,3 +11,7 @@ Started with the journey, solved the valid paranthesis probelm on leetcode (prob
 ### R1D2
 
 Solved a leetcode problem involving linkedlist in javascript. Read through the basics of SASS. Refactored the weather-app to make a request once initially, instead of making 2.
+
+### R1D3
+
+Solved 3 leetcode problems involving arrays. Problems 26,27,28. Tried to implement a debounce function so that search term is only updated after user stops typing.

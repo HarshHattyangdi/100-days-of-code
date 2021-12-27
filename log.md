@@ -23,3 +23,13 @@
 **Link to work:** [mergeLinkedLists](https://github.com/HarshHattyangdi/Problems/blob/master/mergeTwoLists.js)
 [bootstrap-sass](https://www.freecodecamp.org/learn/front-end-development-libraries/#sass)
 [WeatherApp](https://github.com/HarshHattyangdi/weatherapp)
+
+## Day 2: December 27, 2021
+
+**Today's Progress**: Solved 3 leetcode problems involving arrays. Problems 26,27,28. Tried to implement a debounce function so that search term is only updated after user stops typing.
+
+**Thoughts:** I can now understand the probelm properly and am able to walk through the logic, just the implementation part seems a bit tough. Came up with an original solution which got accepted at the first run. Feels good when the solution gets accepted without failing any test cases. Doing very easy problems currently, but hey baby steps right?. Also thought of implementing SASS in the app but need to work on the main logic first, a search feature which sends request after user stops typing. Well the search for an optimal solution continues but I think I should stop and call it a day.
+
+**Link to work:** [removeDuplicates](https://github.com/HarshHattyangdi/Problems/blob/master/removeDuplicates.js)
+[removeElements](https://github.com/HarshHattyangdi/Problems/blob/master/removeElemet.js)
+[strStr](https://github.com/HarshHattyangdi/Problems/blob/master/strStr.js)
