@@ -15,3 +15,7 @@ Solved a leetcode problem involving linkedlist in javascript. Read through the b
 ### R1D3
 
 Solved 3 leetcode problems involving arrays. Problems 26,27,28. Tried to implement a debounce function so that search term is only updated after user stops typing.
+
+### R1D4
+
+Solved 3 leetcode problems involving arrays. Problems 35,53,58. Implemented debounce function and sass background to the pretty-printed json object

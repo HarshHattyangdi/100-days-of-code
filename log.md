@@ -33,3 +33,14 @@
 **Link to work:** [removeDuplicates](https://github.com/HarshHattyangdi/Problems/blob/master/removeDuplicates.js)
 [removeElements](https://github.com/HarshHattyangdi/Problems/blob/master/removeElemet.js)
 [strStr](https://github.com/HarshHattyangdi/Problems/blob/master/strStr.js)
+
+## Day 3: December 28, 2021
+
+**Today's Progress**: Solved 3 leetcode problems involving arrays. Problems 35,53,58. Implemented debounce function and sass background to the pretty-printed json object
+
+**Thoughts:** Developing logic is imporving bit by bit. Implemented debounce correctly, but needs some improvement. Also inclded an SASS stylesheet into the app. Feels great to achieve targets after a long day at work.
+
+**Link to work:** [lengthOfLastWord](https://github.com/HarshHattyangdi/Problems/blob/master/lengthOfLastWord.js)
+[maxSubArray](https://github.com/HarshHattyangdi/Problems/blob/master/maxSubArray.js)
+[searchInsert](https://github.com/HarshHattyangdi/Problems/blob/master/searchInsert.js)
+[WeatherApp](https://github.com/HarshHattyangdi/weatherapp)
