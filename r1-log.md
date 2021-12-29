@@ -19,3 +19,7 @@ Solved 3 leetcode problems involving arrays. Problems 26,27,28. Tried to impleme
 ### R1D4
 
 Solved 3 leetcode problems involving arrays. Problems 35,53,58. Implemented debounce function and sass background to the pretty-printed json object
+
+### R1D5
+
+Solved 3 leetcode problems involving binary search. Problems 704,278,35.
