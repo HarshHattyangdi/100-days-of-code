@@ -23,3 +23,7 @@ Solved 3 leetcode problems involving arrays. Problems 35,53,58. Implemented debo
 ### R1D5
 
 Solved 3 leetcode problems involving binary search. Problems 704,278,35.
+
+### R1D6
+
+Solved 2 leetcode problems involving arrays. Problems 977 and 189(using three approaches).

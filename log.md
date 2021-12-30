@@ -42,3 +42,13 @@
 **Link to work:** [search](https://github.com/HarshHattyangdi/Problems/blob/master/search.js)
 [firstBadVersion](https://github.com/HarshHattyangdi/Problems/blob/master/firstBadVersion.js)
 [searchInsert in O(logn)](https://github.com/HarshHattyangdi/Problems/blob/master/searchInsertOlogN.js)
+
+## Day 5: December 30, 2021
+
+**Today's Progress**: Solved 2 leetcode problems involving arrays. Problems 977 and 189(using three approaches).
+**Thoughts:** The first problem was easy, however trying to come upwith another approach, the second problem was tough, specailly when trying to figure out the other approaches, read through a medium article and managed to get a solution. Almost re-wrote my github repo tracking my progress, created multiple branches and recovered from the fault thanks to stackoverflow.
+
+**Link to work:** [sortedSquares](https://github.com/HarshHattyangdi/Problems/blob/master/sortedSquares.js)
+[rotate1](https://github.com/HarshHattyangdi/Problems/blob/master/rotate.js)
+[rotate2](https://github.com/HarshHattyangdi/Problems/blob/approach-2/rotate.js)
+[rotate3](https://github.com/HarshHattyangdi/Problems/blob/approach-3/rotate.js)
