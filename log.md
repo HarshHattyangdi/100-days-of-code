@@ -52,3 +52,12 @@
 [rotate1](https://github.com/HarshHattyangdi/Problems/blob/master/rotate.js)
 [rotate2](https://github.com/HarshHattyangdi/Problems/blob/approach-2/rotate.js)
 [rotate3](https://github.com/HarshHattyangdi/Problems/blob/approach-3/rotate.js)
+
+## Day 6: December 31, 2021
+
+**Today's Progress**: New Years Eve. Solved 2 leetcode problems on arrays. Made a few changes to the weather app.
+**Thoughts:** Logic building has improved at a slow pace, but will be there, able to come up with brute force solutions, hopefully will reach the optimized solutions soon. Added google fonts to the weather app, removed the pretty json function, instead passed the data to another component, which is selectively rendering data. Will make it into a beautiful weather app soon. Also happy new year eveyone, lets keep our resolve and continue with this.
+
+**Link to work:** [moveZeroes](https://github.com/HarshHattyangdi/Problems/blob/master/moveZeroes.js)
+[twoSumII](https://github.com/HarshHattyangdi/Problems/blob/master/twoSumII.js)
+[WeatherApp](https://github.com/HarshHattyangdi/weatherapp)

@@ -27,3 +27,7 @@ Solved 3 leetcode problems involving binary search. Problems 704,278,35.
 ### R1D6
 
 Solved 2 leetcode problems involving arrays. Problems 977 and 189(using three approaches).
+
+### R1D7
+
+New Years Eve. Solved 2 leetcode problems on arrays. Made a few changes to the weather app.
