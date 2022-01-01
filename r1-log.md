@@ -31,3 +31,7 @@ Solved 2 leetcode problems involving arrays. Problems 977 and 189(using three ap
 ### R1D7
 
 New Years Eve. Solved 2 leetcode problems on arrays. Made a few changes to the weather app.
+
+### R1D8
+
+Solved 2 leetcode problems with two pointer approach and set up the weatherapp on a different machine.

@@ -61,3 +61,11 @@
 **Link to work:** [moveZeroes](https://github.com/HarshHattyangdi/Problems/blob/master/moveZeroes.js)
 [twoSumII](https://github.com/HarshHattyangdi/Problems/blob/master/twoSumII.js)
 [WeatherApp](https://github.com/HarshHattyangdi/weatherapp)
+
+## Day 7: January 01, 2022
+
+**Today's Progress**: Solved 2 leetcode problems with two pointer approach and set up the weatherapp on a different machine.
+**Thoughts:** Application of two pointer approach has imporved. Had to setup the repos on a different machine, had to read through the documentation of git. Single remote repo is now being run on multiple local repos.
+
+**Link to work:** [reverseString](https://github.com/HarshHattyangdi/Problems/blob/master/reverseString.js)
+[reverseWords](https://github.com/HarshHattyangdi/Problems/blob/master/reverseWords.js)
