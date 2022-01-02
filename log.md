@@ -69,3 +69,13 @@
 
 **Link to work:** [reverseString](https://github.com/HarshHattyangdi/Problems/blob/master/reverseString.js)
 [reverseWords](https://github.com/HarshHattyangdi/Problems/blob/master/reverseWords.js)
+
+## Day 8: January 02, 2022
+
+**Today's Progress**: Solved 2 leetcode problems with two pointer approach and the daily january challenge.
+**Thoughts:** Wanted to use icons in the openweatherapi, read through but not able to get the image. Will read more on the documnet. Leetcode problems have helped me a lot to think systematically and approach a problem.
+
+**Link to work:** [middleNode](https://github.com/HarshHattyangdi/Problems/blob/master/middleNode.js)
+[numPairsDivisibleBy60](https://github.com/HarshHattyangdi/Problems/blob/master/numPairsDivisibleBy60.js)
+[removeNthFromEnd](https://github.com/HarshHattyangdi/Problems/blob/master/removeNthFromEnd.js)
+[weatherapp](https://github.com/HarshHattyangdi/weatherapp)

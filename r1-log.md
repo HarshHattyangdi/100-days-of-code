@@ -35,3 +35,7 @@ New Years Eve. Solved 2 leetcode problems on arrays. Made a few changes to the w
 ### R1D8
 
 Solved 2 leetcode problems with two pointer approach and set up the weatherapp on a different machine.
+
+### R1D9
+
+Solved 2 leetcode problems with two pointer approach and the daily january challenge.
