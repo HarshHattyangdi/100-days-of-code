@@ -39,3 +39,7 @@ Solved 2 leetcode problems with two pointer approach and set up the weatherapp o
 ### R1D9
 
 Solved 2 leetcode problems with two pointer approach and the daily january challenge.
+
+### R1D10
+
+Just solved the daily leetcode problem today.

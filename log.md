@@ -79,3 +79,10 @@
 [numPairsDivisibleBy60](https://github.com/HarshHattyangdi/Problems/blob/master/numPairsDivisibleBy60.js)
 [removeNthFromEnd](https://github.com/HarshHattyangdi/Problems/blob/master/removeNthFromEnd.js)
 [weatherapp](https://github.com/HarshHattyangdi/weatherapp)
+
+## Day 9: January 03, 2022
+
+**Today's Progress**:Just solved the daily leetcode problem today.
+**Thoughts:** Understood the problem and was able to come up with the logic. Coding the logic was also fairly easy. Wanted to do more but long day it seems.
+
+**Link to work:** [findJudge](https://github.com/HarshHattyangdi/Problems/blob/master/findJudge.js)
