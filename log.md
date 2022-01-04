@@ -86,3 +86,11 @@
 **Thoughts:** Understood the problem and was able to come up with the logic. Coding the logic was also fairly easy. Wanted to do more but long day it seems.
 
 **Link to work:** [findJudge](https://github.com/HarshHattyangdi/Problems/blob/master/findJudge.js)
+
+## Day 10: January 04, 2022
+
+**Today's Progress**:Just solved the daily leetcode problem today, with two approaches.
+**Thoughts:** The first approach was easy to use as well as implement, used a lot of built in functions. For the second approach had to visit the very basics of bitwise operators and their uses. All in all quite productive.
+
+**Link to work:** [bitwiseComplement_naive](https://github.com/HarshHattyangdi/Problems/blob/master/bitwiseComplement.js)
+[bitwiseComplement_mathematical](https://github.com/HarshHattyangdi/Problems/blob/approach-2/bitwiseComplement.js)

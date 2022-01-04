@@ -43,3 +43,7 @@ Solved 2 leetcode problems with two pointer approach and the daily january chall
 ### R1D10
 
 Just solved the daily leetcode problem today.
+
+### R1D11
+
+Just solved the daily leetcode problem today, with 2 approaches.
