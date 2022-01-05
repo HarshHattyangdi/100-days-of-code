@@ -94,3 +94,10 @@
 
 **Link to work:** [bitwiseComplement_naive](https://github.com/HarshHattyangdi/Problems/blob/master/bitwiseComplement.js)
 [bitwiseComplement_mathematical](https://github.com/HarshHattyangdi/Problems/blob/approach-2/bitwiseComplement.js)
+
+## Day 11: January 05, 2022
+
+**Today's Progress**:Read about dynamic programming and backtracking.
+**Thoughts:** Came across a probelm on leetcode daily challenge, turns out that it needs to use either DP or BackTracking, so read through the same, planning to solve small problems on them and revisit todays problem later.
+
+**Link to work:** nothing for today

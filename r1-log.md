@@ -47,3 +47,7 @@ Just solved the daily leetcode problem today.
 ### R1D11
 
 Just solved the daily leetcode problem today, with 2 approaches.
+
+### R1D12
+
+Read about dynamic programming and backtracking.
