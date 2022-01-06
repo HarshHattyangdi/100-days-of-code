@@ -51,3 +51,7 @@ Just solved the daily leetcode problem today, with 2 approaches.
 ### R1D12
 
 Read about dynamic programming and backtracking.
+
+### R1D13
+
+Solved a leetcode daily problem, gave a clean look to the weather app.

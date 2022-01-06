@@ -101,3 +101,10 @@
 **Thoughts:** Came across a probelm on leetcode daily challenge, turns out that it needs to use either DP or BackTracking, so read through the same, planning to solve small problems on them and revisit todays problem later.
 
 **Link to work:** nothing for today
+
+## Day 12: January 06, 2022
+
+**Today's Progress**:Solved a leetcode daily problem, gave a clean look to the weather app.
+**Thoughts:** Solved leetcode daily problem. Passed class through props, turns out if one wants to assign class to a react component, they must use props. Gave a clean look to the weather app.
+
+**Link to work:** [WeatherApp](https://github.com/HarshHattyangdi/weatherapp)
