@@ -55,3 +55,11 @@ Read about dynamic programming and backtracking.
 ### R1D13
 
 Solved a leetcode daily problem, gave a clean look to the weather app.
+
+### R1D14
+
+Solved a leetcode daily problem involving linkedlist.
+
+### R2D14
+
+Added style to the weather app along with icons

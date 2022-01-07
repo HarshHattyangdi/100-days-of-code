@@ -108,3 +108,11 @@
 **Thoughts:** Solved leetcode daily problem. Passed class through props, turns out if one wants to assign class to a react component, they must use props. Gave a clean look to the weather app.
 
 **Link to work:** [WeatherApp](https://github.com/HarshHattyangdi/weatherapp)
+
+## Day 13: January 07, 2022
+
+**Today's Progress**:Solved a leetcode daily problem, gave a clean look to the weather appm added some styling and displayed the icon.
+**Thoughts:** Solved the daily leetcode problem involving linked lists, made some cosmetic changes to the weather app, was able to display the icons provided by openweather api.
+
+**Link to work:** [WeatherApp](https://github.com/HarshHattyangdi/weatherapp)
+[getRandom](https://github.com/HarshHattyangdi/Problems/blob/master/getRandom.js)
