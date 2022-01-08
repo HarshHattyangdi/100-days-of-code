@@ -116,3 +116,10 @@
 
 **Link to work:** [WeatherApp](https://github.com/HarshHattyangdi/weatherapp)
 [getRandom](https://github.com/HarshHattyangdi/Problems/blob/master/getRandom.js)
+
+## Day 14: January 08, 2022
+
+**Today's Progress**:Solved a leetcode daily problem, read more about dynamic programming. Weather app looks more or less like a complete app.
+**Thoughts:** Solved a leetcode daily problem read more about sliding window techinques. Almost completed the weather app with a transparent background for the card component and getting images from unsplash. Hoping to finish the app by tomorrow.
+
+**Link to work:** [WeatherApp](https://github.com/HarshHattyangdi/weatherapp)
