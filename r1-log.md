@@ -67,3 +67,7 @@ Added style to the weather app along with icons
 ### R1D15
 
 Solved a leetcode daily problem, read more about dynamic programming. Weather app looks more or less like a complete app.
+
+### R1D16
+
+Solved a leetcode daily problem, read about local storage, will implement it later.

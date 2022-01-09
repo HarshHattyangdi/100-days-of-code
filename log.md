@@ -123,3 +123,10 @@
 **Thoughts:** Solved a leetcode daily problem read more about sliding window techinques. Almost completed the weather app with a transparent background for the card component and getting images from unsplash. Hoping to finish the app by tomorrow.
 
 **Link to work:** [WeatherApp](https://github.com/HarshHattyangdi/weatherapp)
+
+## Day 15: January 09, 2022
+
+**Today's Progress**:Solved a leetcode daily problem, read about local storage, will implement it later.
+**Thoughts:** Solved a leetcode daily problem, read about local storage, will implement it later.
+
+**Link to work:** Nothing for today
