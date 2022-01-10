@@ -130,3 +130,10 @@
 **Thoughts:** Solved a leetcode daily problem, read about local storage, will implement it later.
 
 **Link to work:** Nothing for today
+
+## Day 16: January 10, 2022
+
+**Today's Progress**:Solved a leetcode daily problem.
+**Thoughts:** Todays problem was the one I had solved around 9 months ago, came at a similar solution. Was hoping to come up with another approach, but could not. Anyways the progress has been quite good so far, planning to devote some more time to this now.
+
+**Link to work:** [addBinary](https://github.com/HarshHattyangdi/Problems/blob/master/addBinary.js)
