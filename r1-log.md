@@ -75,3 +75,7 @@ Solved a leetcode daily problem, read about local storage, will implement it lat
 ### R1D17
 
 Solved a leetcode daily problem.
+
+### R1D18
+
+Solved a leetcode daily problem.Tried to conditionally render the weatherapp.

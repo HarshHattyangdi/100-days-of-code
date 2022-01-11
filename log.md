@@ -137,3 +137,10 @@
 **Thoughts:** Todays problem was the one I had solved around 9 months ago, came at a similar solution. Was hoping to come up with another approach, but could not. Anyways the progress has been quite good so far, planning to devote some more time to this now.
 
 **Link to work:** [addBinary](https://github.com/HarshHattyangdi/Problems/blob/master/addBinary.js)
+
+## Day 17: January 11, 2022
+
+**Today's Progress**:Solved a leetcode daily problem.Tried to conditionally render the weatherapp.
+**Thoughts:** Todays Leetcode problem was a simple dfs problem. Had to gothrough basics of DFS and then come to a solution. Made minor changes to the weather app, trying to style it conditionally.
+
+**Link to work:** [WeatherApp](https://github.com/HarshHattyangdi/weatherapp)
