@@ -79,3 +79,7 @@ Solved a leetcode daily problem.
 ### R1D18
 
 Solved a leetcode daily problem.Tried to conditionally render the weatherapp.
+
+### R1D19
+
+Solved a leetcode daily problem on binary search tree.

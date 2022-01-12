@@ -144,3 +144,9 @@
 **Thoughts:** Todays Leetcode problem was a simple dfs problem. Had to gothrough basics of DFS and then come to a solution. Made minor changes to the weather app, trying to style it conditionally.
 
 **Link to work:** [WeatherApp](https://github.com/HarshHattyangdi/weatherapp)
+
+## Day 18: January 12, 2022
+
+**Today's Progress**:Solved a leetcode daily problem on binary search tree.
+**Thoughts:** Todays Leetcode problem was a simple binary search tree problem. Had to gothrough basics of trees and bst and then come to a solution.
+**Link to work:** [insertIntoBST](https://github.com/HarshHattyangdi/Problems/blob/master/insertIntoBST.js)
