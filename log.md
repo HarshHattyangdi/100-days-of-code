@@ -150,3 +150,9 @@
 **Today's Progress**:Solved a leetcode daily problem on binary search tree.
 **Thoughts:** Todays Leetcode problem was a simple binary search tree problem. Had to gothrough basics of trees and bst and then come to a solution.
 **Link to work:** [insertIntoBST](https://github.com/HarshHattyangdi/Problems/blob/master/insertIntoBST.js)
+
+## Day 19: January 12, 2022
+
+**Today's Progress**:Solved a leetcode daily problem.
+**Thoughts:** Solved a leetcode daily problem
+**Link to work:** Nothing for today
