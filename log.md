@@ -156,3 +156,8 @@
 **Today's Progress**:Solved a leetcode daily problem.
 **Thoughts:** Solved a leetcode daily problem
 **Link to work:** Nothing for today
+
+## Day 20: November 26, 2023
+**Today's Progress**: Started with a 100 days of code again by starting the leetcode 75 questions since yesterday. Feel great as well as humbling coming back to programming after a very long break, hope to continue solving these problems daily.
+**Thoughts**: Although chatgpt has launched, programming will never die. Hope to get back to it again and continue with the same deidcation. 
+**Link to work** Will be updated shortly.
